@@ -145,24 +145,24 @@ main .pics .row .s12:nth-of-type(1) {
 main .pics .row .col .card {
   height: 260px;
 }
-main .pics .row .col .card #first-last-img {
+main .pics .row .col .card #first-recently-img {
   height: 100%;
-  background: url(../images/first-last.jpg) center center;
+  background: url(../images/first-recently.jpg) center center;
   background-size: cover;
 }
-main .pics .row .col .card #second-last-img {
+main .pics .row .col .card #second-recently-img {
   height: 100%;
-  background: url(../images/second-last.jpg) center center;
+  background: url(../images/second-recently.jpg) center center;
   background-size: cover;
 }
 main .pics .row .col .card #third-img {
   height: 100%;
-  background: url(../images/first-last.jpg) center center;
+  background: url(../images/first-recently.jpg) center center;
   background-size: cover;
 }
 main .pics .row .col .card #forth-img {
   height: 100%;
-  background: url(../images/second-last.jpg) center center;
+  background: url(../images/second-recently.jpg) center center;
   background-size: cover;
 }
 main .posts {
